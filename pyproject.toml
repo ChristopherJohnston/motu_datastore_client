@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "motu_datastore_client"
-version = "0.1.0"
+version = "0.1.1"
 description = "A web client for interfacing with a MOTU AVB Server."
 readme = "README.md"
 authors = [{ name = "Christopher Johnston", email = "christopher_johnston@me.com" }]
