@@ -1,0 +1,1 @@
+from motu_datastore_client.datastore_client import DatastoreClient as DatastoreClient
